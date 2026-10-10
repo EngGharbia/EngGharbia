@@ -1,4 +1,4 @@
-### Hi, I'm Abdurraouf 👋
+### Hi, I'm Abdurraouf
 
 I'm a software engineer from Tripoli, Libya, with over 10 years of experience building web and mobile apps. I currently lead the IT department at the Economic Information & Documentation Center (Ministry of Economy & Trade).
 
