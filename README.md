@@ -16,9 +16,3 @@ Most of my code is in private repositories because it belongs to clients. You ca
 **Tools I use:** C#, .NET, Flutter, Blazor, React, Next.js, SQL Server
 
 **Get in touch:** email me at [Rauf@bengharbia.ly](mailto:Rauf@bengharbia.ly) or find me on [LinkedIn](https://linkedin.com/in/abdurraouf-ben-gharbia-5b09a8161/). You can also [download my resume](https://bengharbia.ly/resume.pdf).
-
-<div dir="rtl" lang="ar">
-
-**بالعربية:** أعمل في تطوير البرمجيات منذ أكثر من عشر سنوات، وأقود حاليًا إدارة تقنية المعلومات في مركز المعلومات والتوثيق الاقتصادي. أبني أنظمة حكومية ومالية بتقنيتَي <span dir="ltr">.NET</span> وFlutter، ويسعدني تواصلكم عبر موقعي أو بريدي الإلكتروني.
-
-</div>
