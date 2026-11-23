@@ -1,7 +1,7 @@
 # Abdurraouf Ben Gharbia
 Tech Lead and .NET engineer building fintech and government systems
 
-I am a Tech Lead and .NET engineer building payment, wallet and identity-verification systems for Libyan government bodies and fintech companies. I direct the IT Management Department at EIDC, lead a small engineering team, and have built software since 2017. Based in Tripoli, Libya (UTC+2). I'm open to full-time remote roles and long-term contracts, and my working hours overlap with Europe and the Gulf.
+I am a Tech Lead and .NET engineer building payment, wallet and identity-verification systems for Libyan government bodies and fintech companies. I direct the IT Management Department at EIDC, lead a small engineering team, and have built software since 2017.
 
 ## Experience
 - Director, IT Management Department (October 2025 to present), Economic Information and Documentation Center (EIDC), Ministry of Economy and Trade
